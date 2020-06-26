@@ -19,6 +19,12 @@ function draw() {
     max = maxSlider.value();
     translate(width/2, height);
     branch(height/3, 75, 12, 1);
+    translate(0, 0);
+    translate(width/4, height/2);
+    branch(height/3, 75, 12, 1);
+    translate(0, 0);
+    translate(width/4 - width/1.33, height/3);
+    branch(height/3, 75, 12, 1);
 }
 
 function branch(len, green, size, iteration) {
