@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f6dd1be-a00f-4107-ae2f-82656869919b/deploy-status)](https://app.netlify.com/sites/thirsty-cray-e8b8aa/deploys)
+
 # Fractal Tree
 A little fractal tree visualizer
 
